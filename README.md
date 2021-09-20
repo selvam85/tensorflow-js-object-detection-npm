@@ -7,6 +7,8 @@ Learn more details about this project in this [blog post](https://github.com/ten
 ## Run the project 
 This project uses parcel to bundle the package. Use the below command to run the code, which would open up a browser and display the index.html page.
 
+It is tested with the latest version of node (v16.9.1) as of 9/20/2021 
+
 ```
 npm run dev
 ```
