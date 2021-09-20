@@ -1,4 +1,4 @@
-# Object Detection using TensorFlow.js
+# Object Detection using TensorFlow.js (Node)
 
 This is a simple node project for Object Detection using TensorFlow.js. This app uses the coco-ssd model for object detection which is part of pre-trained models in TensorFlow.js.
 
