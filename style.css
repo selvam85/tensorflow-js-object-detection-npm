@@ -7,12 +7,10 @@ body {
     color: #FF6F00;
   }
   
-  .rounded {
+  .imageWrapper {
       margin-top: 10px;
       margin-bottom: 10px;
-      border-style: solid;
       border-width: 1px;
-      border-radius: 5px;
       max-width: 500px;
       position: relative;
   }
