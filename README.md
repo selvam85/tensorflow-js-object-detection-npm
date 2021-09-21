@@ -2,7 +2,7 @@
 
 This is a simple node project for Object Detection using TensorFlow.js. This app uses the coco-ssd model for object detection which is part of pre-trained models in TensorFlow.js.
 
-Learn more details about this project in this [blog post](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis). 
+Learn more details about this project in this [blog post](https://handsondeeplearning.com/object-detection-using-tensorflow-js/). 
 
 ## Run the project 
 This project uses Parcel build tool to bundle the package. Use the below command to run the code, which would open up a browser and display the index.html page.
